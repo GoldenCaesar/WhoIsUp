@@ -1,0 +1,8 @@
+{
+  "name": "WhoIsUp",
+  "description": "Real-time collaborative sales floor queue. Instantly syncs available sales reps, walk-in assignments, and store status across all devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

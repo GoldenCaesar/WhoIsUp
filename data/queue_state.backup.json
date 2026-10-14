@@ -1,0 +1,306 @@
+{
+  "reps": [
+    {
+      "id": "rep-mueup4dsyu2n",
+      "name": "Steve",
+      "checked": false,
+      "status": "available",
+      "upCount": 0,
+      "statusChangedAt": 1790284533580
+    },
+    {
+      "id": "rep-mueup6g0xlzs",
+      "name": "Derek",
+      "checked": false,
+      "status": "available",
+      "upCount": 0,
+      "statusChangedAt": 1790284533580
+    },
+    {
+      "id": "rep-mueup78nbsd6",
+      "name": "Devyn",
+      "checked": false,
+      "status": "available",
+      "upCount": 0,
+      "statusChangedAt": 1790284533580
+    }
+  ],
+  "activity": [
+    {
+      "id": "act-mug16waef48b",
+      "timestamp": 1790284540406,
+      "text": "Manual screen refresh triggered across all devices",
+      "type": "reset"
+    },
+    {
+      "id": "act-mug16r0ys8fu",
+      "timestamp": 1790284533586,
+      "text": "Daily stats reset (Ups zeroed & floor times reset)",
+      "type": "reset"
+    },
+    {
+      "id": "act-mug16o78cx57",
+      "timestamp": 1790284529924,
+      "text": "Last action undone",
+      "type": "undo"
+    },
+    {
+      "id": "act-muewdgfrtci6",
+      "timestamp": 1790215982199,
+      "text": "Takaiya removed",
+      "type": "remove",
+      "repName": "Takaiya"
+    },
+    {
+      "id": "act-muewdf6p46ta",
+      "timestamp": 1790215980577,
+      "text": "Takaiya added",
+      "type": "add",
+      "repName": "Takaiya"
+    },
+    {
+      "id": "act-muewddmkc00c",
+      "timestamp": 1790215978556,
+      "text": "Up counts reset to 0",
+      "type": "reset"
+    },
+    {
+      "id": "act-muewckny8tqq",
+      "timestamp": 1790215941023,
+      "text": "Devyn returned to floor",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muewcj68eyc1",
+      "timestamp": 1790215939088,
+      "text": "Devyn checked",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muewchmi5hqp",
+      "timestamp": 1790215937082,
+      "text": "Devyn returned to floor",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muewcgjgq7b7",
+      "timestamp": 1790215935676,
+      "text": "Devyn checked",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muewcep3k7ed",
+      "timestamp": 1790215933287,
+      "text": "Devyn returned to floor",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muewcdba1eem",
+      "timestamp": 1790215931494,
+      "text": "Devyn checked",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muewcbmx5g1o",
+      "timestamp": 1790215929321,
+      "text": "Derek returned to floor",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-muewc9zf89la",
+      "timestamp": 1790215927179,
+      "text": "Derek checked",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-muewby3yb2l7",
+      "timestamp": 1790215911790,
+      "text": "Last action undone",
+      "type": "undo"
+    },
+    {
+      "id": "act-muew409ytjqt",
+      "timestamp": 1790215541350,
+      "text": "Steve returned to floor",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew3z1q1lv3",
+      "timestamp": 1790215539758,
+      "text": "Devyn returned to floor",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muew3xp065tp",
+      "timestamp": 1790215538004,
+      "text": "Derek returned to floor",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-muew3vojridy",
+      "timestamp": 1790215535395,
+      "text": "Derek checked",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-muew3u8gw9kd",
+      "timestamp": 1790215533520,
+      "text": "Devyn checked",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muew3sarhq7w",
+      "timestamp": 1790215531011,
+      "text": "Steve checked",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew2xn16em3",
+      "timestamp": 1790215491277,
+      "text": "Steve returned to floor",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew2wethvj9",
+      "timestamp": 1790215489686,
+      "text": "Steve checked",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew2q4kpsxa",
+      "timestamp": 1790215481540,
+      "text": "Devyn returned to floor",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muew2pa4zb58",
+      "timestamp": 1790215480444,
+      "text": "Steve returned to floor",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew2o6u4i8t",
+      "timestamp": 1790215479031,
+      "text": "Derek returned to floor",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-muew2mr7yapj",
+      "timestamp": 1790215477171,
+      "text": "Steve checked",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew2kd93x5d",
+      "timestamp": 1790215474077,
+      "text": "Steve returned to floor",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew2jfi9m5u",
+      "timestamp": 1790215472862,
+      "text": "Steve checked",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew2i29bfk8",
+      "timestamp": 1790215471089,
+      "text": "Devyn checked",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muew2gq83xno",
+      "timestamp": 1790215469360,
+      "text": "Derek checked",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-muew2czjw5cm",
+      "timestamp": 1790215464511,
+      "text": "Devyn returned to floor",
+      "type": "toggle",
+      "repName": "Devyn"
+    },
+    {
+      "id": "act-muew2cg1oxhv",
+      "timestamp": 1790215463809,
+      "text": "Steve returned to floor",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-muew2btj4jgd",
+      "timestamp": 1790215462999,
+      "text": "Derek returned to floor",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-muew29usthvs",
+      "timestamp": 1790215460452,
+      "text": "Derek checked",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-muew28gu63ld",
+      "timestamp": 1790215458654,
+      "text": "Steve checked",
+      "type": "toggle",
+      "repName": "Steve"
+    },
+    {
+      "id": "act-1",
+      "timestamp": 1790214714205,
+      "text": "Derek checked",
+      "type": "toggle",
+      "repName": "Derek"
+    },
+    {
+      "id": "act-2",
+      "timestamp": 1790212734205,
+      "text": "Roster initialized",
+      "type": "reset"
+    }
+  ],
+  "presets": [
+    "Steve",
+    "Josh",
+    "Zarina",
+    "Derek",
+    "Devyn",
+    "Taylor",
+    "Amber",
+    "Takaiya",
+    "JP",
+    "Jesse",
+    "John"
+  ],
+  "lastResetDate": "2026-09-24",
+  "autoResetEnabled": true,
+  "timezone": "America/Los_Angeles"
+}

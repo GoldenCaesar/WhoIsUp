@@ -1,0 +1,46 @@
+{
+  "entities": {
+    "QueueState": {
+      "title": "QueueState",
+      "description": "Floor up system state representing the current queue, presets, daily stats, and recent activity log.",
+      "type": "object",
+      "properties": {
+        "reps": {
+          "type": "array",
+          "description": "List of reps on the board with their order, up counts, status, and check-in state."
+        },
+        "activity": {
+          "type": "array",
+          "description": "Recent queue action history."
+        },
+        "presets": {
+          "type": "array",
+          "description": "Preset rep names available for quick addition."
+        },
+        "lastResetDate": {
+          "type": "string",
+          "description": "Date string (YYYY-MM-DD) when the daily stats were last reset."
+        },
+        "autoResetEnabled": {
+          "type": "boolean",
+          "description": "Whether midnight daily reset is active."
+        },
+        "timezone": {
+          "type": "string",
+          "description": "Store local timezone string."
+        },
+        "updatedAt": {
+          "type": "number",
+          "description": "Epoch timestamp when state was last updated."
+        }
+      },
+      "required": ["reps", "activity", "presets"]
+    }
+  },
+  "firestore": {
+    "/queue_state/{stateId}": {
+      "schema": "QueueState",
+      "description": "Singleton state document storing the shared store floor queue."
+    }
+  }
+}
